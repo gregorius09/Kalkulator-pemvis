@@ -1,0 +1,27 @@
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\KULIAH\SMT 4\MATA KULIAH\PEMROGRAMAN VISUAL\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\User\Documents\Project Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\User\Documents\Project Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\User\Documents\Project Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\User\Documents\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\User\Documents\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\User\Documents\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\User\Documents\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\User\Documents\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\User\Documents\Project Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\User\Documents\Pem web dan vis\Github\18051204051 - Gregorius Ferdy\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\User\Documents\Pem web dan vis\Github\18051204051 - Gregorius Ferdy\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\User\Documents\Pem web dan vis\Github\18051204051 - Gregorius Ferdy\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\User\Documents\Pem web dan vis\Github\18051204051 - Gregorius Ferdy\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\User\Documents\Pem web dan vis\Github\18051204051 - Gregorius Ferdy\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\User\Documents\Pem web dan vis\Github\18051204051 - Gregorius Ferdy\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\User\Documents\Pem web dan vis\Github\18051204051 - Gregorius Ferdy\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\User\Documents\Pem web dan vis\Github\18051204051 - Gregorius Ferdy\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\User\Documents\Pem web dan vis\Github\18051204051 - Gregorius Ferdy\Calculator\Calculator\obj\Debug\Calculator.pdb
